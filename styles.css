@@ -1,16 +1,14 @@
+
+
 .bleue {
-    border: 2px solid blue;
+    color: blue;
 }
 .vert {
-    border: 2px solid green;
+    color: green;
 }
 .orange {
-    border: 2px solid orange;
+    color: orange;
 }
-
 .rouge {
-    border: 2px solid red;
-}
-.body {
-    background-color: lightgrey;
+    color: red;
 }
