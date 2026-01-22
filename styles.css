@@ -1,0 +1,16 @@
+.bleue {
+    border: 2px solid blue;
+}
+.vert {
+    border: 2px solid green;
+}
+.orange {
+    border: 2px solid orange;
+}
+
+.rouge {
+    border: 2px solid red;
+}
+.body {
+    background-color: lightgrey;
+}
